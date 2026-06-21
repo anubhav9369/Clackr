@@ -4,6 +4,8 @@ A mechanical-keyboard typing test with realistic switch sounds, live WPM/accurac
 stats, an on-screen Mac keyboard, themes, and a results graph. Built with React +
 TypeScript + Vite + Tailwind.
 
+<img width="1457" height="946" alt="image" src="https://github.com/user-attachments/assets/d025d65b-f1b4-4ac8-86d2-23851e5f0d25" />
+
 ## Features
 
 - **Test modes** — `time` (15/30/60/120s), `words` (10/25/50/100), `quote`, `zen`
