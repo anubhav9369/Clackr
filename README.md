@@ -39,8 +39,3 @@ Deploys to Vercel with zero config (Vite preset):
 
 - `tab` then `enter` — restart / next test
 - `⌥` / `⌘` + `delete` — remove the previous word
-
-## Credits
-
-The realistic key-sound sprite (`public/sounds/sound.ogg`) and the concept are
-inspired by [keythm](https://github.com/AayushBharti/keythm) by Aayush Bharti.
