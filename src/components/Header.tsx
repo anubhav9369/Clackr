@@ -42,15 +42,6 @@ export default function Header({ onOpenSettings }: Props) {
           <span className="text-base">⚙️</span>
           <span className="hidden sm:inline">Settings</span>
         </button>
-        <a
-          href="https://github.com"
-          target="_blank"
-          rel="noreferrer"
-          title="source"
-          className="rounded-lg px-3 py-1.5 text-sm transition-colors hover:bg-sub-alt hover:text-text"
-        >
-          GitHub
-        </a>
       </nav>
     </header>
   );
